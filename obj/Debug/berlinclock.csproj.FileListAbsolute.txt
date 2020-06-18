@@ -1,0 +1,11 @@
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\bin\Debug\berlinclock.exe.config
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\bin\Debug\berlinclock.exe
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\bin\Debug\berlinclock.pdb
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.csprojAssemblyReference.cache
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.Properties.Resources.resources
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.csproj.GenerateResource.cache
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.csproj.CoreCompileInputs.cache
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.exe
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.pdb
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.devPanel.resources
+C:\Users\w012922i\OneDrive - Staffordshire University\Code Katas\berlinclock\berlinclock\berlinclock\obj\Debug\berlinclock.main.resources
